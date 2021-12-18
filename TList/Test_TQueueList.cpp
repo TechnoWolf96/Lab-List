@@ -36,7 +36,7 @@ void TestTQueueList()
 
 
 
-int main()
+int __main()
 {
     setlocale(LC_ALL, "ru");
 

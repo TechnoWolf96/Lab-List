@@ -1,2 +1,10 @@
-﻿  Test_TQueueList.cpp
+﻿  Test_TCalculator.cpp
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(48,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(99,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(123,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(173,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(231,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(237,61): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\valya\source\repos\TList\TList\TCalculatorList.h(269): warning C4715: TCalculatorList::Priority: значение возвращается не при всех путях выполнения
   TList.vcxproj -> C:\Users\valya\source\repos\TList\Debug\TList.exe
