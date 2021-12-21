@@ -24,6 +24,9 @@
     <ClCompile Include="Test_TCalculator.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Test_TList.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TStackList.h">
@@ -36,6 +39,9 @@
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
     <ClInclude Include="TCalculatorList.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="TList.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
   </ItemGroup>

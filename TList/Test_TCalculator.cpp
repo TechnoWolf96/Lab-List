@@ -13,7 +13,7 @@ void TestTCalculatorList()
 }
 
 
-int main()
+int ___main()
 {
     setlocale(LC_ALL, "eng");
     TestTCalculatorList();

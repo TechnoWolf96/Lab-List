@@ -140,11 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Test_TCalculator.cpp" />
+    <ClCompile Include="Test_TList.cpp" />
     <ClCompile Include="Test_TQueueList.cpp" />
     <ClCompile Include="Test_TStackList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TCalculatorList.h" />
+    <ClInclude Include="TList.h" />
     <ClInclude Include="TNode.h" />
     <ClInclude Include="TQueueList.h" />
     <ClInclude Include="TStackList.h" />
